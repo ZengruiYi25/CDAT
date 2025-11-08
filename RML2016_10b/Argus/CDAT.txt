@@ -1,0 +1,3 @@
+The number of parameters is 117642(0.12M)(117.64K)
+The number of flops is 3744500(3.74M)
+
